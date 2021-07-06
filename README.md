@@ -1,10 +1,12 @@
 # TextToHandwriting
 Project for lambda core selection process.
 
-Due to health issues, I have only made a repository for now.
+This project takes text as input and convert them to pdf and png file.
 
-Please Give me some time to complete my project.
+labraries you need to install:
+ pywhatkit 
+   pip install pywhatkit 
 
-Thank you for your consideration 
+
 
 Shantanu
